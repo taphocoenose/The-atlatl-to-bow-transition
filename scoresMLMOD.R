@@ -190,7 +190,7 @@ bowtMLM <- map2stan(alist(
   sigma_name ~ dcauchy(0,2),
   theta ~ dexp(1),
   rho ~ dlkjcorr(2)),
-  data=bowl, iter=4000, warmup=200, chains=4, cores=2, 
+  data=bowl, iter=4000, warmup=2000, chains=4, cores=2, 
   constraints=list(theta="lower=0"))
 
 # MLM for scaled bow data with removed 0 and 1 scores.
