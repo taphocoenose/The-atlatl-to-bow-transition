@@ -15,7 +15,7 @@
 # This script has three main parts:
 #   Part 1: Read, clean, and sort data. Lines 20-170.
 #   Part 2: Fit multilevel models. Lines 173-251.
-#   Part 3: Plot multilelevel models. Lines 253-676.
+#   Part 3: Plot multilevel models. Lines 253-676.
 
 ##################################################################
 ############### Part 1: Read, clean, and sort data ###############
