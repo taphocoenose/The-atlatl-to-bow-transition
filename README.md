@@ -1,7 +1,7 @@
 <b>The Atlatl to Bow Transition</b><br>
 Supplemental R scripts and csv files for:
 
-Breslawski RP, Etter BL, Jorgeson I, Boulanger MT (nd). The Atlatl to Bow Transition: What Can We Learn from Modern Recreational Competitions? <i>Lithic Technology</i>, in press, DOI:10.1080/01977261.2017.1416918
+Breslawski RP, Etter BL, Jorgeson I, Boulanger MT (2018). The Atlatl to Bow Transition: What Can We Learn from Modern Recreational Competitions? <i>Lithic Technology</i>, in press, DOI:10.1080/01977261.2017.1416918
 
 <b>Files</b><br>
 atlatldata.csv: Table of atlatl competition scores.<br>
